@@ -37,17 +37,17 @@ It's recommended to use a virtual environment for installing dependencies. Run t
 
 1. Create a virtual environment:
    ```bash
-   python -m venv venv
+   python -m venv cat2
    ```
 
 2. Activate the virtual environment:
    - On **Windows**:
      ```bash
-     .\venv\Scripts\activate
+     .\cat2\Scripts\activate
      ```
    - On **Mac/Linux**:
      ```bash
-     source venv/bin/activate
+     source cat2/bin/activate
      ```
 
 ### Install Dependencies
