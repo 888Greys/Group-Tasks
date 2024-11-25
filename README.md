@@ -119,22 +119,16 @@ For any questions or issues, please open an issue on GitHub or reach out to [you
 4. **Running the Application**:  
    Step-by-step instructions on how to start the application, including the command to run the Flask app and the address (e.g., `http://localhost:5000`) where the application will be accessible.
 
-5. **Application Overview**:  
-   A breakdown of the main components of your application (e.g., home page, form page) to guide other developers on how the app works.
 
-6. **Contributing**:  
-   If other developers want to contribute, outline how they can fork the repository, make changes, and submit pull requests. This encourages collaboration.
+### **Explanation of the Image Syntax**:
+- `![Screenshot]`: This is the alt text for the image (in this case, "Screenshot"). Alt text helps with accessibility and is displayed if the image cannot be loaded.
+- `(assets/scc.png)`: This specifies the relative path to the image file. Replace `assets/screenshot.png` with the path to your actual image.
 
-7. **License**:  
-   If applicable, include licensing information to clarify the terms under which the code can be used, modified, or distributed.
+### **4. Push the Changes to GitHub**
 
-8. **Contact Information**:  
-   Provide your email or preferred method of contact for any questions or issues with the project.
+Once you've updated your README and added the image, commit the changes and push them to your GitHub repository:
 
----
-
-### **Next Steps**:
-- Make sure to **replace** placeholders like `yourusername` and `your-repository-name` with actual values specific to your GitHub project.
-- After making the README file, push it to your GitHub repository.
-
-This will give other developers a solid understanding of how to set up, use, and contribute to your project. Let me know if you need further clarification on any of the sections!
+```bash
+git add README.md assets/screenshot.png
+git commit -m "Added screenshot to README"
+git push origin main
