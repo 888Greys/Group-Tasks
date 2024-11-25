@@ -43,3 +43,34 @@ th, td {
 th {
     background-color: #f4f4f4;
 }
+
+body {
+    background: linear-gradient(135deg, #ff7e5f, #feb47b); /* Orange-to-pink gradient */
+    color: #333; /* Set text color to dark gray for readability */
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background for the content */
+    padding: 20px;
+    border-radius: 8px; /* Smooth rounded corners */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow around content */
+}
+
+.navbar {
+    background-color: rgba(255, 255, 255, 0.9); /* Light, semi-transparent navbar */
+}
+
+.navbar a {
+    color: #ff7e5f !important; /* Navbar links in gradient color */
+}
+
+.btn-primary {
+    background-color: #ff7e5f;
+    border-color: #ff7e5f;
+}
+
+.btn-primary:hover {
+    background-color: #feb47b;
+    border-color: #feb47b;
+}
+
