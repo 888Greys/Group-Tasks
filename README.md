@@ -90,45 +90,4 @@ If you'd like to contribute to this project, feel free to fork the repository, m
 4. Push your changes to your forked repository.
 5. Open a pull request to merge your changes into the main repository.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or issues, please open an issue on GitHub or reach out to [your-email@example.com].
-
-```
-
----
-
-### **Explanation of Sections in the README**:
-
-1. **Project Title & Description**:  
-   Clearly explains what the project does and its purpose. A brief summary of features is useful for developers to understand the project at a glance.
-
-2. **Prerequisites**:  
-   List any necessary software or tools needed to run the project (e.g., Python version, dependencies like Flask, etc.).
-
-3. **Installation Instructions**:  
-   Clear steps on how to set up the project on a local machine. This should include:
-   - Cloning the repository
-   - Setting up a virtual environment
-   - Installing dependencies using `pip install`
-
-4. **Running the Application**:  
-   Step-by-step instructions on how to start the application, including the command to run the Flask app and the address (e.g., `http://localhost:5000`) where the application will be accessible.
-
-
-### **Explanation of the Image Syntax**:
-- `![Screenshot]`: This is the alt text for the image (in this case, "Screenshot"). Alt text helps with accessibility and is displayed if the image cannot be loaded.
-- `(assets/scc.png)`: This specifies the relative path to the image file. Replace `assets/screenshot.png` with the path to your actual image.
-
-### **4. Push the Changes to GitHub**
-
-Once you've updated your README and added the image, commit the changes and push them to your GitHub repository:
-
-```bash
-git add README.md assets/screenshot.png
-git commit -m "Added screenshot to README"
-git push origin main
+Salute Guys😎
